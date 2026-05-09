@@ -1,0 +1,1 @@
+export const PRODUCTS_BASEURL = 'https://tahaemporium-products.example.com/products'

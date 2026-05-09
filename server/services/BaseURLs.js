@@ -1,0 +1,7 @@
+export const WEBSITE_BASE_URL = 'https://tahaemporium-cm.example.com'
+export const PRODUCTS_BASEURL = 'https://tahaemporium-products.example.com/products'
+export const ORDERS_BASEURL = 'https://tahaemporium-orders.example.com/orders'
+export const SHIPPING_BASEURL = 'https://tahaemporium-shipping.example.com/shipping'
+export const NOTIFICATIONS_BASEURL = 'https://tahaemporium-notifications.example.com/notifications'
+export const PAYMENTS_BASEURL = 'https://tahaemporium-payments.example.com/payments'
+export const USER_BASEURL = 'https://tahaemporium-users.example.com/me'
